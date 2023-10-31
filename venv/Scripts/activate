@@ -38,7 +38,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="C:\Users\APP\ECサイト２\venv"
+=======
+VIRTUAL_ENV="C:\Users\APP\ECサイト\venv"
+>>>>>>> 82bd51fffd2fdb865204538b313e3f53fced89ea
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

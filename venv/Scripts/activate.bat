@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\APP\ECサイト２\venv
+=======
+set VIRTUAL_ENV=C:\Users\APP\ECサイト\venv
+>>>>>>> 82bd51fffd2fdb865204538b313e3f53fced89ea
 
 if not defined PROMPT set PROMPT=$P$G
 

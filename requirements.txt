@@ -1,3 +1,9 @@
 django==3.2
+<<<<<<< HEAD
 django-crispy-forms==1.7.2 #htmlをbootstrap適応させるために必要
 django-filter==2.0.0 #検索機能を使用するときに必要
+=======
+django-crispy-forms==1.7.2 #入力フォームのHTMLをbootstrapに対応させる
+django-filter==2.0.0 #検索機能を追加する
+
+>>>>>>> 82bd51fffd2fdb865204538b313e3f53fced89ea
